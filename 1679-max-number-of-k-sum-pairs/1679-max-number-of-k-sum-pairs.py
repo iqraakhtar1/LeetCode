@@ -9,7 +9,7 @@ class Solution:
                 r-=1
             elif nums[l]+nums[r]<k:
                 l+=1
-            elif nums[l]+nums[r]>k:
+            else:
                 r-=1
         return ans
                 
