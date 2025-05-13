@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/iqraakhtar1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
 ## Design
@@ -24,13 +25,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
