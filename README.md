@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iqraakhtar1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iqraakhtar1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
