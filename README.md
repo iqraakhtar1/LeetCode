@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/iqraakhtar1/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/iqraakhtar1/LeetCode/tree/master/0502-ipo) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iqraakhtar1/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iqraakhtar1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/iqraakhtar1/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/iqraakhtar1/LeetCode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
