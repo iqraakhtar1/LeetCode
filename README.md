@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iqraakhtar1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iqraakhtar1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iqraakhtar1/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/iqraakhtar1/LeetCode/tree/master/0502-ipo) |
 ## Merge Sort
@@ -86,9 +88,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/iqraakhtar1/LeetCode/tree/master/0502-ipo) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
