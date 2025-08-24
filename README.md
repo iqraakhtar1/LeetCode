@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iqraakhtar1/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/iqraakhtar1/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
@@ -102,4 +103,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iqraakhtar1/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/iqraakhtar1/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/iqraakhtar1/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/iqraakhtar1/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
