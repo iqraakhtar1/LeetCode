@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/iqraakhtar1/LeetCode/tree/master/0079-word-search) |
+| [0137-single-number-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0137-single-number-ii) |
 | [0212-word-search-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iqraakhtar1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iqraakhtar1/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iqraakhtar1/LeetCode/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/iqraakhtar1/LeetCode/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
